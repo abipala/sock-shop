@@ -10,6 +10,6 @@ spec:
   ports:
   - port: 80
     targetPort: 8079
-    nodePort: 35555
+    nodePort: 34444
   selector:
     name: front-end
