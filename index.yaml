@@ -2,11 +2,11 @@ apiVersion: v1
 entries:
   sock-shop:
   - apiVersion: v1
-    created: "2020-01-14T21:58:01.046777687+11:00"
+    created: "2020-01-14T22:10:24.072596484+11:00"
     description: A Helm chart for Sock Shop
-    digest: f4e3e9be7f2e503a45a36c65ddee30801d4a29a8341dd0c9b25f995560c2fe9c
+    digest: a05688051820c4187895eacbc9f43407df107a8931e8335826045801d5527855
     name: sock-shop
     urls:
     - sock-shop-0.2.0.tgz
     version: 0.2.0
-generated: "2020-01-14T21:58:01.044209936+11:00"
+generated: "2020-01-14T22:10:24.06918978+11:00"
