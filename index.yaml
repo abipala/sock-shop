@@ -2,11 +2,20 @@ apiVersion: v1
 entries:
   helm-chart:
   - apiVersion: v1
-    created: "2020-01-14T19:33:01.879557811+11:00"
+    created: "2020-01-14T21:58:01.044972863+11:00"
     description: A Helm chart for Sock Shop
     digest: e05e92e08b66440c6c292cb87fe289ad2ba92e48d62ceeb87f4342ca584de3fc
     name: helm-chart
     urls:
     - helm-chart-0.2.0.tgz
     version: 0.2.0
-generated: "2020-01-14T19:33:01.877970768+11:00"
+  sock-shop:
+  - apiVersion: v1
+    created: "2020-01-14T21:58:01.046777687+11:00"
+    description: A Helm chart for Sock Shop
+    digest: f4e3e9be7f2e503a45a36c65ddee30801d4a29a8341dd0c9b25f995560c2fe9c
+    name: sock-shop
+    urls:
+    - sock-shop-0.2.0.tgz
+    version: 0.2.0
+generated: "2020-01-14T21:58:01.044209936+11:00"
