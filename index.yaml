@@ -1,12 +1,22 @@
 apiVersion: v1
 entries:
+  load-tester:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: "2020-01-16T17:11:43.7018088+11:00"
+    description: A Helm chart for Kubernetes
+    digest: 934cda4f25a2b9d6812e3c8034e78e87f1ed4f1bea36dbbfd3979f6dcd4e3b62
+    name: load-tester
+    urls:
+    - load-tester-0.1.0.tgz
+    version: 0.1.0
   sock-shop:
   - apiVersion: v1
-    created: "2020-01-14T22:10:24.072596484+11:00"
+    created: "2020-01-16T17:11:43.708737931+11:00"
     description: A Helm chart for Sock Shop
     digest: a05688051820c4187895eacbc9f43407df107a8931e8335826045801d5527855
     name: sock-shop
     urls:
     - sock-shop-0.2.0.tgz
     version: 0.2.0
-generated: "2020-01-14T22:10:24.06918978+11:00"
+generated: "2020-01-16T17:11:43.700976475+11:00"
